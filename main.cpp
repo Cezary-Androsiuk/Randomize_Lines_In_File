@@ -8,6 +8,8 @@
 
 // compile: g++ main.cpp -o main.exe -lcomdlg32
 
+// from directory removed .git, .gitignore, .vscode, example_file.txt, main.exe
+
 // i decided to use pointers 
 
 std::string OpenFileDialog();
